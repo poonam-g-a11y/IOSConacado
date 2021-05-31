@@ -41,7 +41,7 @@ export class Setting extends Component {
                       flexDirection: 'row',
                     }}>
                     <View style={{width: '80%'}}>
-                      <Text>
+                      <Text style={{fontSize:14}}>
                         Lorem Ipsum is simply dummy text of the printing and
                         typesetting
                       </Text>
